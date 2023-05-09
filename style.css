@@ -5,6 +5,8 @@
     margin-right: 50px;
     margin-left: 50px;
     font-family: 'Roboto Mono', monospace;
+    box-sizing: border-box;
+
 }
 
 body {
@@ -27,6 +29,8 @@ body {
 }
 
 .box {
-    border: 1px solid orangered;
+    border: 2px solid orangered;
     margin: 5px;
+    text-align: center;
+
 }
