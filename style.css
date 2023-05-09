@@ -32,5 +32,7 @@ body {
     border: 2px solid orangered;
     margin: 5px;
     text-align: center;
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
